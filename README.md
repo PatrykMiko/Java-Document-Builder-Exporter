@@ -1,5 +1,7 @@
 # Java Document Builder & Exporter
 
+![Java](https://img.shields.io/badge/Java-11%2B-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-Export-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![JUnit](https://img.shields.io/badge/JUnit5-Tested-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+
 An object-oriented Java library designed for dynamically constructing structured documents (such as Resumes, Reports, or Articles) and exporting them into multiple formats.
 
 
