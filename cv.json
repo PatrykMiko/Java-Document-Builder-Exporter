@@ -1,0 +1,80 @@
+{
+  "title": "Patryk Mikos - CV",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Calico_tabby_cat_-_Savannah.jpg/1200px-Calico_tabby_cat_-_Savannah.jpg"
+  },
+  "sections": [
+    {
+      "title": "Wykształcenie",
+      "paragraphs": [
+        {
+          "type": "Paragraph",
+          "content": "2020-2024 IV LO im. Stanisława Staszica klasa: mat-fiz-inf dwujęzyczny"
+        },
+        {
+          "type": "Paragraph",
+          "content": "2024-2028 AGH kierunek: Informatyka i Systemy Inteligentne"
+        },
+        {
+          "type": "ParagraphWithList",
+          "list": {
+            "items": [
+              {
+                "content": "Języka Angielskiego"
+              },
+              {
+                "content": "Google AI w biznesie"
+              },
+              {
+                "content": "Eyetracking, AI, EEG w neurobadaniach"
+              },
+              {
+                "content": "Aikido 1 DAN"
+              }
+            ]
+          },
+          "content": "Kursy"
+        }
+      ]
+    },
+    {
+      "title": "Umiejętności",
+      "paragraphs": [
+        {
+          "type": "ParagraphWithList",
+          "list": {
+            "items": [
+              {
+                "content": "Python"
+              },
+              {
+                "content": "Java"
+              },
+              {
+                "content": "SQL"
+              }
+            ]
+          },
+          "content": "Znane technologie"
+        }
+      ]
+    },
+    {
+      "title": "Organizacje",
+      "paragraphs": [
+        {
+          "type": "Paragraph",
+          "content": "URSS: Organizacja wydarzeń m.in. Juwenaliów Krakoskich 2025, Mecz Charytatywny UEKxAGH, AGH Freshmen. Członek Kapituły Lauru Dydaktyka 2025. Koordynator główny Silent Disco na lodzie."
+        },
+        {
+          "type": "Paragraph",
+          "content": "MechaniCAD Project Hydrive: Badanie nad napędem wodorowym wykorzystywanym w bolidzie. Wykorzystanie metod uczenia maszynowego w symulacji badań."
+        },
+        {
+          "type": "Paragraph",
+          "content": "Glider: Automatyczna detekcja chorób skórnych."
+        }
+      ]
+    }
+  ]
+}
